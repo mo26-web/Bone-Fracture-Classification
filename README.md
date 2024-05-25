@@ -85,5 +85,5 @@ Estimated Total Size (MB): 94.74
 
 ### 7. Swin transformer architecture
 <p align="center">
-<a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/swin.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/swin.png" align="center"></a>
+<a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/swin.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/swin.png" align="center"width="600" height="300"></a>
 </p>
