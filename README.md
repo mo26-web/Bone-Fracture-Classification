@@ -176,3 +176,4 @@ not fractured       0.90      0.89      0.89       268
  weighted avg       0.89      0.89      0.89       506
 ```
 ## Best result
+Vision transformer provides the best results for us
