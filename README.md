@@ -176,4 +176,10 @@ not fractured       0.90      0.89      0.89       268
  weighted avg       0.89      0.89      0.89       506
 ```
 ## Best result
-Vision transformer provides the best results for us
+Vision transformer provides the best results for us, based on test benchmark.
+
+### Accuracy and loss
+### Confusion matrix
+<p align="center">
+<a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/confusionmatrix.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/confusionmatrix.png" align="center"width="200" height="200"></a>
+</p>
