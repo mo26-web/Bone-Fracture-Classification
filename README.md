@@ -5,7 +5,6 @@ The dataset includes fractured and non-fractured X-ray images covering all anato
 <p align="center">
 <a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/data.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/data.png" align="center"></a>
 </p>
-
 ### Dataset Contents:
 
 This dataset contains  **10,580**  radiographic images (X-ray) data.
@@ -18,3 +17,5 @@ _Number of Images: 828_
 
 **Test Data**  
 _Number of Images: 506_
+## Image Pre-Process
+In machine learning applications involving image data, it is essential to employ a robust preprocessing routine to enhance model training and ensure consistent evaluation. The preprocessing steps typically include resizing all images to a fixed dimension, introducing random transformations such as flips to augment the training dataset, and normalizing the pixel values across images. These random transformations help the model learn to generalize from varied data presentations, effectively improving its robustness. For validation and testing, the preprocessing simplifies; images are resized and normalized in the same way as the training set but without random transformations. This consistency ensures that the model's performance evaluation is based on processing conditions identical to those it trained under, providing a true test of its capabilities on new, unaltered images.
