@@ -176,11 +176,11 @@ not fractured       0.90      0.89      0.89       268
  weighted avg       0.89      0.89      0.89       506
 ```
 ## Best result
-**Vision transformer** provides the best results for us, based on test benchmark.
+Based on test benchmarks, **Vision Transformer** provides us with the best results.
 
 ### Accuracy and loss
 <p align="center">
-<a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/epoch.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/epoch.png" align="center" width="70%"height="70%"></a>
+<a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/epoch.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/epoch.png" align="center" width="80%"height="80%"></a>
 </p>
 
 ### Confusion matrix
