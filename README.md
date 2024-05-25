@@ -67,3 +67,8 @@ Estimated Total Size (MB): 94.74
 <p align="center">
 <a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/mobilenetv3.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/mobilenetv3.png" align="center"width="600" height="300"></a>
 </p>
+
+### 4. RegNet architecture
+<p align="center">
+<a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/RegNet.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/RegNet.png" align="center"width="600" height="300"></a>
+</p>
