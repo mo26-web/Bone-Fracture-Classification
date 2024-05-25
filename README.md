@@ -190,5 +190,5 @@ Vision transformer provides the best results for us, based on test benchmark.
 
 ## Visualization
 <p align="center">
-<a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/result.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/result.png" align="center"></a>
+<a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/result.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/result.png" align="center" width="80%"height="80%"></a>
 </p>
