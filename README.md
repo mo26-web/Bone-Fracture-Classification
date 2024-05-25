@@ -27,6 +27,33 @@ In machine learning applications involving image data, it is essential to employ
 </p>
 
 ## Methods
+### Our architecture
+
+----------------------------------------------------------------
+        Layer (type)               Output Shape         Param #
+================================================================
+            Conv2d-1        [-1, 128, 226, 226]           3,584
+       BatchNorm2d-2          [-1, 128, 75, 75]             256
+            Conv2d-3          [-1, 256, 77, 77]         295,168
+       BatchNorm2d-4          [-1, 256, 25, 25]             512
+            Conv2d-5          [-1, 256, 27, 27]         590,080
+       BatchNorm2d-6            [-1, 256, 9, 9]             512
+            Linear-7                  [-1, 256]       5,308,672
+            Linear-8                  [-1, 256]          65,792
+            Linear-9                  [-1, 256]          65,792
+           Linear-10                  [-1, 256]          65,792
+           Linear-11                    [-1, 1]             257
+================================================================
+Total params: 6,396,417
+Trainable params: 6,396,417
+Non-trainable params: 0
+----------------------------------------------------------------
+Input size (MB): 0.57
+Forward/backward pass size (MB): 69.76
+Params size (MB): 24.40
+Estimated Total Size (MB): 94.74
+----------------------------------------------------------------
+
 ### VGG19 architecture
 <p align="center">
 <a href="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/vgg19.JPG?raw=true"><img src="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/vgg19.JPG?raw=true" align="center" ></a>
