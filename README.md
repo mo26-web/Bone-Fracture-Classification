@@ -176,7 +176,7 @@ not fractured       0.90      0.89      0.89       268
  weighted avg       0.89      0.89      0.89       506
 ```
 ## Best result
-Based on test benchmarks, **Vision Transformer** provides us with the best results.
+Based on validation benchmark, **Vision Transformer** provides us with the best results.
 
 ### Accuracy and loss
 <p align="center">
