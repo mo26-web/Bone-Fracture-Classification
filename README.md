@@ -95,22 +95,84 @@ not fractured       0.91      0.88      0.89       268
 <a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/mobilenetv3.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/mobilenetv3.png" align="center"width="600" height="300"></a>
 </p>
 
+#### Result
+
+```bash
+               precision    recall  f1-score   support
+
+    fractured       0.73      0.95      0.82       238
+not fractured       0.93      0.69      0.79       268
+
+     accuracy                           0.81       506
+    macro avg       0.83      0.82      0.81       506
+ weighted avg       0.84      0.81      0.81       506
+```
+
 ### 4. RegNet architecture
 <p align="center">
 <a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/RegNet.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/RegNet.png" align="center"width="600" height="300"></a>
 </p>
+
+#### Result
+```bash
+               precision    recall  f1-score   support
+
+    fractured       0.81      0.76      0.79       238
+not fractured       0.80      0.84      0.82       268
+
+     accuracy                           0.81       506
+    macro avg       0.81      0.80      0.80       506
+ weighted avg       0.81      0.81      0.81       506
+```
 
 ### 5. Wide ResNet architecture
 <p align="center">
 <a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/wideresnet.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/wideresnet.png" align="center"width="600" height="300"></a>
 </p>
 
+#### Result
+```bash
+               precision    recall  f1-score   support
+
+    fractured       0.86      0.89      0.88       238
+not fractured       0.90      0.87      0.89       268
+
+     accuracy                           0.88       506
+    macro avg       0.88      0.88      0.88       506
+ weighted avg       0.88      0.88      0.88       506
+```
+
 ### 6. Vision transformer (ViT) architecture
 <p align="center">
 <a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/VIT.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/VIT.png" align="center"width="600" height="300"></a>
 </p>
 
+#### Result
+```bash
+               precision    recall  f1-score   support
+
+    fractured       0.95      0.95      0.95       238
+not fractured       0.96      0.95      0.95       268
+
+     accuracy                           0.95       506
+    macro avg       0.95      0.95      0.95       506
+ weighted avg       0.95      0.95      0.95       506
+```
+
 ### 7. Swin transformer architecture
 <p align="center">
 <a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/swin.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/swin.png" align="center"width="600" height="300"></a>
 </p>
+
+#### Result
+```bash
+              precision    recall  f1-score   support
+
+    fractured       0.88      0.89      0.88       238
+not fractured       0.90      0.89      0.89       268
+
+     accuracy                           0.89       506
+    macro avg       0.89      0.89      0.89       506
+ weighted avg       0.89      0.89      0.89       506
+```
+## Best result
