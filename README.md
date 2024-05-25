@@ -58,6 +58,26 @@ Params size (MB): 24.40
 Estimated Total Size (MB): 94.74
 ----------------------------------------------------------------
 ```
+
+#### Result
+
+```bash
+               precision    recall  f1-score   support
+
+       normal       0.99      0.99      0.99     24692
+ imbalance 6g       1.00      1.00      1.00     24369
+imbalance 10g       1.00      1.00      1.00     24107
+imbalance 15g       0.95      0.95      0.95     23728
+imbalance 20g       0.96      0.95      0.95     24588
+imbalance 25g       0.95      0.95      0.95     23588
+imbalance 30g       0.98      0.97      0.97     23381
+imbalance 35g       0.98      0.98      0.98     22544
+
+     accuracy                           0.97    190997
+    macro avg       0.97      0.97      0.97    190997
+ weighted avg       0.97      0.97      0.97    190997
+```
+
 ### 2. VGG19 architecture
 <p align="center">
 <a href="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/vgg19.JPG?raw=true"><img src="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/vgg19.JPG?raw=true" align="center"width="600" height="300" ></a>
