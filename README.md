@@ -5,3 +5,16 @@ The dataset includes fractured and non-fractured X-ray images covering all anato
 <p align="center">
 <a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/data.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/data.png" align="center"></a>
 </p>
+
+### Dataset Contents:**
+
+This dataset contains  **10,580**  radiographic images (X-ray) data.
+
+**Training Data**  
+_Number of Images: 9246_
+
+**Validation Data**  
+_Number of Images: 828_
+
+**Test Data**  
+_Number of Images: 506_
