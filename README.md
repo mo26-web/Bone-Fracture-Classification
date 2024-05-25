@@ -27,8 +27,14 @@ In machine learning applications involving image data, it is essential to employ
 </p>
 
 ## Methods
+
 ### Our architecture
 
+## Model Architecture Summary
+
+Below is the summary of the CNN model architecture used in our project:
+
+```plaintext
 ----------------------------------------------------------------
         Layer (type)               Output Shape         Param #
 ================================================================
@@ -53,7 +59,7 @@ Forward/backward pass size (MB): 69.76
 Params size (MB): 24.40
 Estimated Total Size (MB): 94.74
 ----------------------------------------------------------------
-
+```
 ### VGG19 architecture
 <p align="center">
 <a href="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/vgg19.JPG?raw=true"><img src="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/vgg19.JPG?raw=true" align="center" ></a>
