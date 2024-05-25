@@ -60,10 +60,10 @@ Estimated Total Size (MB): 94.74
 ```
 ### 2. VGG19 architecture
 <p align="center">
-<a href="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/vgg19.JPG?raw=true"><img src="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/vgg19.JPG?raw=true" align="center"width="200" height="100" ></a>
+<a href="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/vgg19.JPG?raw=true"><img src="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/vgg19.JPG?raw=true" align="center"width="400" height="200" ></a>
 </p>
 
 ### 3. MobileNetV3 architecture
 <p align="center">
-<a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/mobilenetv3.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/mobilenetv3.png" align="center"width="200" height="100"></a>
+<a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/mobilenetv3.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/mobilenetv3.png" align="center"width="400" height="200"></a>
 </p>
