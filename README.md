@@ -181,5 +181,5 @@ Vision transformer provides the best results for us, based on test benchmark.
 ### Accuracy and loss
 ### Confusion matrix
 <p align="center">
-<a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/confusionmatrix.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/confusionmatrix.png" align="center"width="300" height="300"></a>
+<a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/confusionmatrix.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/confusionmatrix.png" align="center"width="400" height="400"></a>
 </p>
