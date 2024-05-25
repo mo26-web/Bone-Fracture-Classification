@@ -179,6 +179,9 @@ not fractured       0.90      0.89      0.89       268
 Vision transformer provides the best results for us, based on test benchmark.
 
 ### Accuracy and loss
+<p align="center">
+<a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/epoch.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/epoch.png" align="center"></a>
+</p>
 ### Confusion matrix
 <p align="center">
 <a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/confusionmatrix.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/confusionmatrix.png" align="center"width="400" height="400"></a>
