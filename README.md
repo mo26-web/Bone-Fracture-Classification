@@ -3,5 +3,5 @@ This project uses PyTorch to classify bone fractures. As well as fine-tuning som
 ## Bone Fracture Multi-Region X-ray Dataset
 The dataset includes fractured and non-fractured X-ray images covering all anatomical body regions, including the lower limb, upper limb, lumbar region, hips, knees, etc. The dataset is divided into three folders, each containing fractured and non-fractured radiographic images. The dataset can be accessed at https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data/data.
 <p align="center">
-<a href="https://github.com/mo26-web/Bone-Fracture-Classification/tree/main/images/data.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/tree/main/images/data.png" align="center"></a>
+<a href="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/data.png"><img src="https://github.com/mo26-web/Bone-Fracture-Classification/blob/main/images/data.png" align="center"></a>
 </p>
